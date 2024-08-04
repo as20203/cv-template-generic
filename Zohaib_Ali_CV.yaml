@@ -1,0 +1,143 @@
+cv:
+  name: ZOHAIB ALI
+  location: Espoo, Finland
+  email: alizohaib877@gmail.com
+  phone: "+3584578383467"
+  ##social_networks:
+  ##  - network: LinkedIn
+  ##  - network: GitHub
+  ##    username: https://github.com/Chikanma681
+  sections:
+    summary:
+      - Dedicated and enthusiastic Restaurant Cook with a strong work ethic, and a desire to provide outstanding culinary experiences. Eager to help and create a lively cooking environment via hard effort and a true passion for the art.
+    experience:
+      - company: Henricus Omnia's Restaurant
+        position: Kitchen Chef
+        location: Espoo, Finland
+        start_date: 2024-05
+        end_date: 2024-05
+        highlights:
+          - Prepared healthy and delicious meals, ensuring ingredient freshness and proper cooking methods.
+          - Supported culinary teams and ensured timely, hygienic diets for customers.
+          - Maintained cleanliness by washing dishes, cleaning tables, and upkeeping kitchen equipment.
+          - Arranged and garnished dishes for optimal presentation.
+      - company: Bro's Burger
+        position: Kitchen chef
+        location: Helsinki, Finland
+        start_date: 2024-03
+        end_date: 2024-05
+        highlights:
+          - Built various types of burgers and prepared food and drink products.
+          - Maintained health and safety standards, kitchen equipment, and cleanliness.
+          - Unloaded and stocked inventory items.
+          - Provided rapid service response to customers.
+          - Ensured prompt and regular attendance on assigned shifts.
+      - company: Ramada by Wyndham
+        position: Kitchen Chef
+        location: Multan, Pakistan
+        start_date: 2011-02
+        end_date: 2017-11
+        highlights:
+          - Prepared awesome meals by weighing, measuring, mixing, and prepping ingredients according to recipes, and ensuring freshness of all ingredients.
+          - Cooked meats, fish, vegetables, and other ingredients using methods such as steaming, grilling, broiling, baking, and frying.
+          - Arranged and garnished dishes to wow our guests.
+          - Worked well under pressure and within time limits.
+          - Ensured cleanliness of the kitchen area, equipment, and utensils.
+          - Assisted the restaurant manager in leading and inspiring kitchen staff.
+      - company: Descon Engineering Limited
+        position: HSE Assistant
+        location: Ras Al Fan Industrial City, Qatar
+        start_date: 2008-12
+        end_date: 2009-02
+        highlights:
+          - Conducted daily toolbox talks and safety meetings with workers and management.
+          - Performed risk assessments, enforced preventive measures, and ensured site safety for all workers.
+          - Supported the development and implementation of OHS policies and programs.
+          - Checked and ensured proper use of PPE on-site.
+          - Recorded and investigated incidents to determine causes and managed workers' compensation claims.
+          - Prepared and provided statistical reports on safety occurrences to management.
+      - company: Japan Power Generation Limited
+        position: Product Quality Inspector
+        location: Lahore, Pakistan
+        start_date: 2007-11
+        end_date: 2008-04
+        highlights:
+          - Conducted daily toolbox talks and safety meetings with workers and management, ensuring site safety through risk assessments and preventive measures.
+          - Supported the development and implementation of OHS policies and programs, regularly checking PPE compliance on-site.
+          - Recorded and investigated incidents to determine causes, managed workers' compensation claims, and prepared detailed reports and statistical analyses for management.
+    education:
+      - institution: Omnia
+        area: "Vocational Education"
+        degree: "Training"
+        location: Espoo, Finland
+        start_date: 2014-01
+        date: "-Current"
+        highlights:
+          - Currently pursuing advanced vocational training in Restaurant and Catering Service, specializing as a Restaurant Cook.
+      - institution: SUSTAINABLE BUSSINESS SOLUTION
+        area: OCCUPATIONAL SAFETY AND HEALTH
+        degree: "Training"
+        location: Lahore, Pakistan
+        start_date: 2012-05
+        end_date: 2012-06
+        highlights:
+          - Recieved training certificate for Occupational Safety and Health.
+      - institution: DESCON TRAINING INSTITUTE
+        area: Engineering
+        degree: "Training"
+        location: Lahore, Pakistan
+        start_date: 2006-07
+        end_date: 2006-07
+        highlights:
+          - Recieved training certificate for Training Program of Safety Assistant.
+      - institution: VIRTUUAL UNIVERSTY OF PAKISTAN
+        area: BUSSINESS ADMINISRATION
+        degree: BS
+        location: Lahore, Pakistan
+        ##start date not mentioned ask ali bhai start_date:
+        ##end date not mentioned ask ali bhai end_date:
+        highlights:
+          - Recieved Bachelor's degree in Business Administration.
+    license:
+      - label: HYGIENE PASSPORT | Omnia | [Write down Date of Issuance] | Espoo, Finland
+        details: Recieve Hygiene Passport from Omnia.
+      - label: ALCOHOL PASSPORT | Omnia | [Write down Date of Issuance] | Espoo, Finland
+        details: Recieve Hygiene Passport from Omnia.
+    skills:
+      - label: Languages
+        details: English (LISTENING C1, READING C1, WRITING C1, SPOKEN C1), Finnish (LISTENING A1, READING A1, WRITING A1, SPOKEN A1), Punjabi (Mother Tongue), Urdu (Mother Tongue)
+      - label: Digital Skills
+        details: Microsoft Word, Google, Social Media (Facebook), Youtube
+design:
+  theme: classic
+  font_size: 10pt
+  page_size: a4paper
+  color: black
+  disable_external_link_icons: false
+  disable_page_numbering: true
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: true
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 20 pt
+  text_alignment: left-aligned
+  margins:
+    page:
+      top: 1 cm
+      bottom: 1 cm
+      left: 1 cm
+      right: 1 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 2.5 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 5 pt
+      bottom: 5 pt
+      horizontal_between_connections: 10 pt
