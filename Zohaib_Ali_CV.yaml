@@ -11,6 +11,17 @@ cv:
     # summary:
     #   - Dedicated and enthusiastic Restaurant Cook with a strong work ethic, and a desire to provide outstanding culinary experiences. Eager to help and create a lively cooking environment via hard effort and a true passion for the art.
     experience:
+      - company: Vapiano
+        position: Chef
+        location: Espoo, Finland
+        start_date: 2025-01
+        highlights:
+          - Maintain hygiene during the work in kitchen ensuring high standards of cleanliness and food safety.
+          - Prepare mise en place efficiently to support smooth kitchen operations and meal preparation.
+          - Cook delicious pastas with attention to quality, taste, and presentation.
+          - Provide overall help to culinary team, supporting colleagues and maintaining team collaboration.
+          - "**Skills:** Kitchen hygiene, Mise en place preparation, Pasta cooking, Team collaboration, Flexibility"
+
       - company: Henricus Omnia's Restaurant
         position: Kitchen Worker
         location: Espoo, Finland
@@ -85,17 +96,7 @@ cv:
         end_date: 2009-02
         highlights:
           - Led daily safety briefings, performed risk assessments, and enforced preventive measures.
-          - Managed PPE compliance, investigated incidents, handled claims, and provided safety reports.
           - "**Skills**: Risk assessment, Safety enforcement, Communication, Leadership, Flexibility"
-
-      - company: Japan Power Generation Limited
-        position: Product Quality Inspector
-        location: Lahore, Pakistan
-        start_date: 2007-11
-        end_date: 2008-04
-        highlights:
-          - Implemented safety policies, ensured PPE compliance, and managed incident investigations and reports.
-          - "**Skills**: Safety management, Risk assessment, Reporting"
 
 design:
   theme: classic
